@@ -1,6 +1,6 @@
 {
   "name": "@dotenvx/dotenvx-linux-arm64",
-  "version": "1.38.5",
+  "version": "1.39.0",
   "description": "dotenvx-linux-arm64 binary",
   "repository": {
     "type": "git",
